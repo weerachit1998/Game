@@ -102,7 +102,7 @@ export default new Router({
     {
       path: '/front',
       name: 'front',
-      component: FrontIndex
+      component: FrontProducts
     },
     {
       path: '/front-products',
